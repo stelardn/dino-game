@@ -10,7 +10,7 @@ body {
     background-image: url(mozilla.png); 
 }
 
-.cactus {
+.obstacle {
     position: absolute;
     width: 60px;
     height: 67px;
